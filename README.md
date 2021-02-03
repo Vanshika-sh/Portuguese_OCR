@@ -1,1 +1,1 @@
-# Portuguese_OCR
+# Portuguese_OCR using Tesseract and OpenCV
